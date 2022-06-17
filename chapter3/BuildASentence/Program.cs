@@ -19,19 +19,10 @@ namespace BuildASentence
                 string line = Console.ReadLine();
 
                 // Exit the loop if the line is a terminator 
-                string[] terms = { "EXIT", "exit", "QUIT", "quit" };
-
-                // Compare the string entered to each of the legal exit commands
                 bool quitting = false;
 
-                foreach (string term in terms)
-                {
-                    // Break out of the loop if you have a match
-                    if (string.Compare(line, term) == 0)
-                    {
-                        quitting = true;
-                    }
-                } 
+                if (String.Compare("exit", line, true) == 0 || String.Compare("quit", line, true) == 0 ) 
+                    quitting = true;
 
                 if (quitting == true)
                     break;
