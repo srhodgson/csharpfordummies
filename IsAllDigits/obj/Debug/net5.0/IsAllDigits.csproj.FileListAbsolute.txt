@@ -1,0 +1,16 @@
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.exe
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.deps.json
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.runtimeconfig.dev.json
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.dll
+E:\Programming\csharp\csharpfordummies\IsAllDigits\bin\Debug\net5.0\IsAllDigits.pdb
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.dll
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\refint\IsAllDigits.dll
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.pdb
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\IsAllDigits.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\IsAllDigits\obj\Debug\net5.0\ref\IsAllDigits.dll
