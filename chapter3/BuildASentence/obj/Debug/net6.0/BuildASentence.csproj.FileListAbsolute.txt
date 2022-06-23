@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\bin\Debug\net6.0\BuildASentence.exe
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\bin\Debug\net6.0\BuildASentence.deps.json
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\bin\Debug\net6.0\BuildASentence.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\bin\Debug\net6.0\BuildASentence.dll
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\bin\Debug\net6.0\BuildASentence.pdb
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.dll
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\refint\BuildASentence.dll
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.pdb
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\BuildASentence.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\chapter3\BuildASentence\obj\Debug\net6.0\ref\BuildASentence.dll
