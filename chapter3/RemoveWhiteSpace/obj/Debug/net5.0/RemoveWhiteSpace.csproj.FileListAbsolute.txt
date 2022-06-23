@@ -1,0 +1,16 @@
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.exe
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.deps.json
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.runtimeconfig.dev.json
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.dll
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\bin\Debug\net5.0\RemoveWhiteSpace.pdb
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.dll
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\refint\RemoveWhiteSpace.dll
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.pdb
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\RemoveWhiteSpace.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\chapter3\RemoveWhiteSpace\obj\Debug\net5.0\ref\RemoveWhiteSpace.dll
