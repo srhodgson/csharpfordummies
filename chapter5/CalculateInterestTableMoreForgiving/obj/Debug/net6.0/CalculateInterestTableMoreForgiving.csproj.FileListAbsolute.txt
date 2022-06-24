@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\bin\Debug\net6.0\CalculateInterestTableMoreForgiving.exe
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\bin\Debug\net6.0\CalculateInterestTableMoreForgiving.deps.json
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\bin\Debug\net6.0\CalculateInterestTableMoreForgiving.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\bin\Debug\net6.0\CalculateInterestTableMoreForgiving.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\bin\Debug\net6.0\CalculateInterestTableMoreForgiving.pdb
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\refint\CalculateInterestTableMoreForgiving.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.pdb
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\CalculateInterestTableMoreForgiving.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTableMoreForgiving\obj\Debug\net6.0\ref\CalculateInterestTableMoreForgiving.dll
