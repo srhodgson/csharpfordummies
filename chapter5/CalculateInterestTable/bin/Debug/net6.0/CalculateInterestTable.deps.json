@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateInterestTable/1.0.0": {
+        "runtime": {
+          "CalculateInterestTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateInterestTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

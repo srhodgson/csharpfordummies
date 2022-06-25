@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInterestTableMoreForgiving", "CalculateInterestTableMoreForgiving.csproj", "{09AE488A-3F7E-450C-A4EB-9B53C0033CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AE488A-3F7E-450C-A4EB-9B53C0033CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AE488A-3F7E-450C-A4EB-9B53C0033CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AE488A-3F7E-450C-A4EB-9B53C0033CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AE488A-3F7E-450C-A4EB-9B53C0033CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9ECB76-E4C0-4A53-831C-D78A40557215}
+	EndGlobalSection
+EndGlobal

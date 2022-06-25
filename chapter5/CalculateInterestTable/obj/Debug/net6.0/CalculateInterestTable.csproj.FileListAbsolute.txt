@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\bin\Debug\net6.0\CalculateInterestTable.exe
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\bin\Debug\net6.0\CalculateInterestTable.deps.json
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\bin\Debug\net6.0\CalculateInterestTable.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\bin\Debug\net6.0\CalculateInterestTable.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\bin\Debug\net6.0\CalculateInterestTable.pdb
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\refint\CalculateInterestTable.dll
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.pdb
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\CalculateInterestTable.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\chapter5\CalculateInterestTable\obj\Debug\net6.0\ref\CalculateInterestTable.dll
