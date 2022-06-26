@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\bin\Debug\net6.0\BubbleSortArray.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\bin\Debug\net6.0\BubbleSortArray.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\bin\Debug\net6.0\BubbleSortArray.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\bin\Debug\net6.0\BubbleSortArray.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\bin\Debug\net6.0\BubbleSortArray.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\refint\BubbleSortArray.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\BubbleSortArray.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\BubbleSortArray\obj\Debug\net6.0\ref\BubbleSortArray.dll

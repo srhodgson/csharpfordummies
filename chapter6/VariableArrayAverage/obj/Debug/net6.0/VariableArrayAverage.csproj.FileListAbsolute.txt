@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\bin\Debug\net6.0\VariableArrayAverage.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\bin\Debug\net6.0\VariableArrayAverage.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\bin\Debug\net6.0\VariableArrayAverage.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\bin\Debug\net6.0\VariableArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\bin\Debug\net6.0\VariableArrayAverage.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\refint\VariableArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\VariableArrayAverage.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\VariableArrayAverage\obj\Debug\net6.0\ref\VariableArrayAverage.dll

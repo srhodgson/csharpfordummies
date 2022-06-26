@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\bin\Debug\net6.0\FixedArrayAverage.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\bin\Debug\net6.0\FixedArrayAverage.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\bin\Debug\net6.0\FixedArrayAverage.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\bin\Debug\net6.0\FixedArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\bin\Debug\net6.0\FixedArrayAverage.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\refint\FixedArrayAverage.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\FixedArrayAverage.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter6\FixedArrayAverage\obj\Debug\net6.0\ref\FixedArrayAverage.dll
