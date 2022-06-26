@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\bin\Debug\net6.0\LoopThroughFiles.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\bin\Debug\net6.0\LoopThroughFiles.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\bin\Debug\net6.0\LoopThroughFiles.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\bin\Debug\net6.0\LoopThroughFiles.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\bin\Debug\net6.0\LoopThroughFiles.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\refint\LoopThroughFiles.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\LoopThroughFiles.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\LoopThroughFiles\obj\Debug\net6.0\ref\LoopThroughFiles.dll
