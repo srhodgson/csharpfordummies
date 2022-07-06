@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\bin\Debug\net6.0\IteratorBlocks.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\bin\Debug\net6.0\IteratorBlocks.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\bin\Debug\net6.0\IteratorBlocks.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\bin\Debug\net6.0\IteratorBlocks.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\bin\Debug\net6.0\IteratorBlocks.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\refint\IteratorBlocks.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\IteratorBlocks.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter7\IteratorBlocks\obj\Debug\net6.0\ref\IteratorBlocks.dll
