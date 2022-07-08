@@ -83,5 +83,55 @@ namespace PriorityQueue
         private Queue<T> _queueHigh = new Queue<T>();
         private Queue<T> _queueMedium = new Queue<T>();
         private Queue<T> _queueLow = new Queue<T>();
+
+        // Enqueue -- Prioritize T and add an item to type T to correct qeueue.
+        // The item must know its own priority.
+        public void Enqueue(T item)
+        {
+            switch(item.Priority) // Require IPriotiziable for this property
+            {
+                case Priority.High:
+                    _queueHigh.Enqueue(item);
+                    break;
+                case Priority.Medium:
+                    _queueMedium.Enqueue(item);
+                    break;
+                case Priority.Low:
+                    _queueLow.Enqueue(item);
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException(item.Priority.ToString(), "bad priority in PriorityQueue.Enqueue");
+            }
+        }
+
+        // Dequeue -- Get T from highest-priority queue available 
+        public T Dequeue()
+        {
+            // Find the highest-priority queue with items.
+            Queue<T> queueTop = TopQueue();
+            // If a non-empty queue is found 
+            if (queueTop != null & queueTop.Count > 0)
+            {
+                return queueTop.Dequeue(); // Return its front item
+            }
+
+            // If all queues empty, return null (you could throw an exception)
+            return default(T);
+        }
+
+        // TopQueue -- What's the highest-priority underlying queue with the items?
+        private Queue<T> TopQueue()
+        {
+            if (_queueHigh.Count > 0)
+                return _queueHigh;
+
+            if (_queueMedium.Count > 0)
+                return _queueMedium;
+
+            if (_queueLow.Count > 0)
+                return _queueLow;
+
+            return _queueLow;
+        }
     }
 }
