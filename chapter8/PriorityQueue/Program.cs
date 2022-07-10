@@ -31,7 +31,7 @@ namespace PriorityQueue
                 Console.WriteLine("\t\tGenerating and adding random package {0}", i);
                 pack = fact.CreatePackage();
                 Console.WriteLine(" with priority {0}", pack.Priority);
-                pq.Enqueue;
+                pq.Enqueue(pack);
             }
 
             Console.WriteLine("See what we got: ");
@@ -44,7 +44,7 @@ namespace PriorityQueue
 
             for (int i = 0; i < numToRemove; i++)
             {
-                pack pq.Dequeue();
+                pack = pq.Dequeue();
                 if (pack != null)
                 {
                     Console.WriteLine("\t\tShipped package with priority {0}", pack.Priority);
@@ -88,7 +88,7 @@ namespace PriorityQueue
         // The item must know its own priority.
         public void Enqueue(T item)
         {
-            switch(item.Priority) // Require IPriotiziable for this property
+            switch (item.Priority) // Require IPriotiziable for this property
             {
                 case Priority.High:
                     _queueHigh.Enqueue(item);
@@ -100,7 +100,8 @@ namespace PriorityQueue
                     _queueLow.Enqueue(item);
                     break;
                 default:
-                    throw new ArgumentOutOfRangeException(item.Priority.ToString(), "bad priority in PriorityQueue.Enqueue");
+                    throw new ArgumentOutOfRangeException(item.Priority.ToString(),
+                        "bad priority in PriorityQueue.Enqueue");
             }
         }
 
@@ -133,5 +134,63 @@ namespace PriorityQueue
 
             return _queueLow;
         }
+
+        // IsEmpty -- Check whether there's anything to dequeue 
+        public bool IsEmpty()
+        {
+            // True if all queues are empty 
+            return (_queueHigh.Count == 0) & (_queueMedium.Count == 0) & (_queueLow.Count == 0);
+        }
+
+
+        // Count -- How many items are in all queues combined?
+        public int Count // Implement this one as a read only property 
+        {
+            get { return _queueHigh.Count + _queueMedium.Count + _queueLow.Count; }
+        }
     }
+
+    // Package -- An example of a prioritizable class that can be stored in 
+        // the priority queue; any class that implements 
+        // IPrioritizable would look something like this package.
+        class Package : IPrioritizable
+        {
+            private Priority _priority;
+
+            // Constructor 
+            public Package(Priority priority)
+            {
+                this._priority = priority;
+            }
+
+            // Priority -- Return package priority -- read-only
+            public Priority Priority
+            {
+                get { return _priority; }
+            }
+        }
+
+        // PackageFactory -- You need a class that knows how to create a new 
+        // package of any desired type on demand ;such a class 
+        // is a factory class 
+        class PackageFactory
+        {
+            // A random number generator 
+            Random _randGen = new Random();
+
+            // CreatePackage -- The factory method selects a random priority 
+            // then creates a package with that priority.
+            // Could implement this as an iterator block 
+            public Package CreatePackage()
+            {
+                // Return randomly selected package 
+                // Need a 0, 2, or 2 (values less than 3)
+                int rand = _randGen.Next(3);
+
+                // Use that to generate a new package 
+                // Casting int to enum is clunky, but it saves 
+                // having to use ifs or a switch statement 
+                return new Package((Priority)rand);
+            }
+        }
 }
