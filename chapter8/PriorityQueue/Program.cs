@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
-/**
- * PriorityQueue -- Demonstrates using lower-level queue collection
- * objects (generic ones at that) to implement a higher level geberic 
- * Queue that stores objects in priority order.
- */
+// PriorityQueue -- Demonstrates using lower-level queue collection
+// objects (generic ones at that) to implement a higher level geberic 
+// Queue that stores objects in priority order.
+
 namespace PriorityQueue
 {
     internal class Program
