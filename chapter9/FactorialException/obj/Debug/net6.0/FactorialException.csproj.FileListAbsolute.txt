@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\bin\Debug\net6.0\FactorialException.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\bin\Debug\net6.0\FactorialException.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\bin\Debug\net6.0\FactorialException.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\bin\Debug\net6.0\FactorialException.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\bin\Debug\net6.0\FactorialException.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\refint\FactorialException.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\FactorialException.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\chapter9\FactorialException\obj\Debug\net6.0\ref\FactorialException.dll
