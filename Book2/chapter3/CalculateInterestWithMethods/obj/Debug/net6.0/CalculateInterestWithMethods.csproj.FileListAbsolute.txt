@@ -1,0 +1,15 @@
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\bin\Debug\net6.0\CalculateInterestWithMethods.exe
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\bin\Debug\net6.0\CalculateInterestWithMethods.deps.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\bin\Debug\net6.0\CalculateInterestWithMethods.runtimeconfig.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\bin\Debug\net6.0\CalculateInterestWithMethods.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\bin\Debug\net6.0\CalculateInterestWithMethods.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.AssemblyInfo.cs
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\refint\CalculateInterestWithMethods.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\CalculateInterestWithMethods.genruntimeconfig.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\CalculateInterestWithMethods\obj\Debug\net6.0\ref\CalculateInterestWithMethods.dll
