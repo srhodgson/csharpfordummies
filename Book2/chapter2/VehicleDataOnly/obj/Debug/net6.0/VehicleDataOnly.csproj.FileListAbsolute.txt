@@ -1,0 +1,15 @@
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\bin\Debug\net6.0\VehicleDataOnly.exe
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\bin\Debug\net6.0\VehicleDataOnly.deps.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\bin\Debug\net6.0\VehicleDataOnly.runtimeconfig.json
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\bin\Debug\net6.0\VehicleDataOnly.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\bin\Debug\net6.0\VehicleDataOnly.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.csproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\refint\VehicleDataOnly.dll
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.pdb
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\VehicleDataOnly.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documents\GitHub\csharpfordummies\Book2\chapter2\VehicleDataOnly\obj\Debug\net6.0\ref\VehicleDataOnly.dll
