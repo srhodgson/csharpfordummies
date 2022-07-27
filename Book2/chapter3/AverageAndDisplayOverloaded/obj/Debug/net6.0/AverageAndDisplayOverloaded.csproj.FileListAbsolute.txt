@@ -1,0 +1,15 @@
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\bin\Debug\net6.0\AverageAndDisplayOverloaded.exe
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\bin\Debug\net6.0\AverageAndDisplayOverloaded.deps.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\bin\Debug\net6.0\AverageAndDisplayOverloaded.runtimeconfig.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\bin\Debug\net6.0\AverageAndDisplayOverloaded.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\bin\Debug\net6.0\AverageAndDisplayOverloaded.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.AssemblyInfo.cs
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\refint\AverageAndDisplayOverloaded.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\AverageAndDisplayOverloaded.genruntimeconfig.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplayOverloaded\obj\Debug\net6.0\ref\AverageAndDisplayOverloaded.dll

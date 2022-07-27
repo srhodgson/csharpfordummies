@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tF0iRwP6skGZOc2LJrwsVZKhPzfGuTnKDNZVyb7nNAWAAFOXL4ykErQW2S32Xg3E4SKkxp2OCGGzjTQ8c0XdaA==",
+  "dgSpecHash": "WCVttLmfvOSG2oOuRtjHWJ6sK3Z+5oyO/wD4ZKk7rQIPXrlWOlsQ+8tiDa/NEn9DeRtMaF57db+FQQrjODvn4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj",
+  "projectFilePath": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
