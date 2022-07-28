@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments\\MethodsWithDefaultArguments.csproj": {}
+    "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments2\\MethodsWithDefaultArguments2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments\\MethodsWithDefaultArguments.csproj": {
+    "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments2\\MethodsWithDefaultArguments2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments\\MethodsWithDefaultArguments.csproj",
-        "projectName": "MethodsWithDefaultArguments",
-        "projectPath": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments\\MethodsWithDefaultArguments.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments2\\MethodsWithDefaultArguments2.csproj",
+        "projectName": "MethodsWithDefaultArguments2",
+        "projectPath": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments2\\MethodsWithDefaultArguments2.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments\\obj\\",
+        "outputPath": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\MethodsWithDefaultArguments2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
