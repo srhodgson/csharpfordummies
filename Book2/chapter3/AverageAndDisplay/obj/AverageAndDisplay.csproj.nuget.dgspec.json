@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj": {}
+    "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\AverageAndDisplay\\AverageAndDisplay.csproj": {}
   },
   "projects": {
-    "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj": {
+    "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\AverageAndDisplay\\AverageAndDisplay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj",
-        "projectName": "CalculateInterestWithMethods",
-        "projectPath": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\CalculateInterestWithMethods.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\AverageAndDisplay\\AverageAndDisplay.csproj",
+        "projectName": "AverageAndDisplay",
+        "projectPath": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\AverageAndDisplay\\AverageAndDisplay.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\CalculateInterestWithMethods\\obj\\",
+        "outputPath": "C:\\Users\\steph\\source\\repos\\csharpfordummies\\Book2\\chapter3\\AverageAndDisplay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",

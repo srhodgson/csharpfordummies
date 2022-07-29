@@ -1,0 +1,15 @@
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\bin\Debug\net6.0\AverageAndDisplay.exe
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\bin\Debug\net6.0\AverageAndDisplay.deps.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\bin\Debug\net6.0\AverageAndDisplay.runtimeconfig.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\bin\Debug\net6.0\AverageAndDisplay.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\bin\Debug\net6.0\AverageAndDisplay.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.AssemblyInfo.cs
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\refint\AverageAndDisplay.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\AverageAndDisplay.genruntimeconfig.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\AverageAndDisplay\obj\Debug\net6.0\ref\AverageAndDisplay.dll

@@ -1,0 +1,15 @@
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.AssemblyInfo.cs
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\bin\Debug\net6.0\MethodsWithDefaultArguments.exe
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\bin\Debug\net6.0\MethodsWithDefaultArguments.deps.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\bin\Debug\net6.0\MethodsWithDefaultArguments.runtimeconfig.json
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\bin\Debug\net6.0\MethodsWithDefaultArguments.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\bin\Debug\net6.0\MethodsWithDefaultArguments.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\refint\MethodsWithDefaultArguments.dll
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.pdb
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\MethodsWithDefaultArguments.genruntimeconfig.cache
+C:\Users\steph\source\repos\csharpfordummies\Book2\chapter3\MethodsWithDefaultArguments\obj\Debug\net6.0\ref\MethodsWithDefaultArguments.dll
