@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\StudentClassWithMethods\\StudentClassWithMethods.csproj": {}
+    "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj": {}
   },
   "projects": {
-    "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\StudentClassWithMethods\\StudentClassWithMethods.csproj": {
+    "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\StudentClassWithMethods\\StudentClassWithMethods.csproj",
-        "projectName": "StudentClassWithMethods",
-        "projectPath": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\StudentClassWithMethods\\StudentClassWithMethods.csproj",
+        "projectUniqueName": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj",
+        "projectName": "InvokeMethod",
+        "projectPath": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\StudentClassWithMethods\\obj\\",
+        "outputPath": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
