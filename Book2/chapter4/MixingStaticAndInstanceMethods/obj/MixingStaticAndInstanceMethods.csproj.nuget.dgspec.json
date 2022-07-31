@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj": {}
+    "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\MixingStaticAndInstanceMethods\\MixingStaticAndInstanceMethods.csproj": {}
   },
   "projects": {
-    "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj": {
+    "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\MixingStaticAndInstanceMethods\\MixingStaticAndInstanceMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj",
-        "projectName": "InvokeMethod",
-        "projectPath": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\InvokeMethod.csproj",
+        "projectUniqueName": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\MixingStaticAndInstanceMethods\\MixingStaticAndInstanceMethods.csproj",
+        "projectName": "MixingStaticAndInstanceMethods",
+        "projectPath": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\MixingStaticAndInstanceMethods\\MixingStaticAndInstanceMethods.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "e:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\InvokeMethod\\obj\\",
+        "outputPath": "E:\\Programming\\csharp\\csharpfordummies\\Book2\\chapter4\\MixingStaticAndInstanceMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
