@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\bin\Debug\net6.0\MixingStaticAndInstanceMethods.exe
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\bin\Debug\net6.0\MixingStaticAndInstanceMethods.deps.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\bin\Debug\net6.0\MixingStaticAndInstanceMethods.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\bin\Debug\net6.0\MixingStaticAndInstanceMethods.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\bin\Debug\net6.0\MixingStaticAndInstanceMethods.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\refint\MixingStaticAndInstanceMethods.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\MixingStaticAndInstanceMethods.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\MixingStaticAndInstanceMethods\obj\Debug\net6.0\ref\MixingStaticAndInstanceMethods.dll

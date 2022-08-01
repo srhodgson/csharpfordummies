@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\bin\Debug\net6.0\PassObject.exe
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\bin\Debug\net6.0\PassObject.deps.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\bin\Debug\net6.0\PassObject.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\bin\Debug\net6.0\PassObject.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\bin\Debug\net6.0\PassObject.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\refint\PassObject.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\PassObject.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\PassObject\obj\Debug\net6.0\ref\PassObject.dll

@@ -1,0 +1,15 @@
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\bin\Debug\net6.0\ReferencingThisExplicitly.exe
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\bin\Debug\net6.0\ReferencingThisExplicitly.deps.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\bin\Debug\net6.0\ReferencingThisExplicitly.runtimeconfig.json
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\bin\Debug\net6.0\ReferencingThisExplicitly.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\bin\Debug\net6.0\ReferencingThisExplicitly.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.csproj.CoreCompileInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\refint\ReferencingThisExplicitly.dll
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.pdb
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ReferencingThisExplicitly.genruntimeconfig.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter4\ReferencingThisExplicitly\obj\Debug\net6.0\ref\ReferencingThisExplicitly.dll
