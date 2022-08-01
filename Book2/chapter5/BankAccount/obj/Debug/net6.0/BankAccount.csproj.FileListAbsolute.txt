@@ -1,0 +1,5 @@
+E:\Programming\csharp\csharpfordummies\Book2\chapter5\BankAccount\obj\Debug\net6.0\BankAccount.csproj.AssemblyReference.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter5\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\csharp\csharpfordummies\Book2\chapter5\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+E:\Programming\csharp\csharpfordummies\Book2\chapter5\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+E:\Programming\csharp\csharpfordummies\Book2\chapter5\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
